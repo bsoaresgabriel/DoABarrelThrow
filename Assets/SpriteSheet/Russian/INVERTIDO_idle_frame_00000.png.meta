@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: e6a0f96c4f9abaf4ca8b4f2f63a1b1bc
+timeCreated: 1456414853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INVERTIDO_idle_frame_00000_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INVERTIDO_idle_frame_00000_0
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 240
+        width: 549
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.89688, y: 95.01608}
+        - {x: 25.896881, y: 99.01608}
+        - {x: -64.10312, y: 99.01608}
+        - {x: -87.10312, y: 89.01608}
+        - {x: -90.10312, y: 68.01608}
+        - {x: -90.10312, y: 33.016083}
+        - {x: -69.10312, y: -90.98392}
+        - {x: -50.10312, y: -98.98392}
+        - {x: 78.89688, y: -98.98392}
+        - {x: 91.89688, y: -75.98392}
+        - {x: 91.89688, y: -16.983917}
+        - {x: 62.89688, y: 54.016083}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

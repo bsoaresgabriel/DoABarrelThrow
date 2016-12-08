@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 1e4bc587db657f4418922a871a152f53
+timeCreated: 1457710533
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: russian_death_sheet_0
+    21300002: russian_death_sheet_1
+    21300004: russian_death_sheet_2
+    21300006: russian_death_sheet_3
+    21300008: russian_death_sheet_4
+    21300010: russian_death_sheet_5
+    21300012: russian_death_sheet_6
+    21300014: russian_death_sheet_7
+    21300016: russian_death_sheet_8
+    21300018: russian_death_sheet_9
+    21300020: russian_death_sheet_10
+    21300022: russian_death_sheet_11
+    21300024: russian_death_sheet_12
+    21300026: russian_death_sheet_13
+    21300028: russian_death_sheet_14
+    21300030: russian_death_sheet_15
+    21300032: russian_death_sheet_16
+    21300034: russian_death_sheet_17
+    21300036: russian_death_sheet_18
+    21300038: russian_death_sheet_19
+    21300040: russian_death_sheet_20
+    21300042: russian_death_sheet_21
+    21300044: russian_death_sheet_22
+    21300046: russian_death_sheet_23
+    21300048: russian_death_sheet_24
+    21300050: russian_death_sheet_25
+    21300052: russian_death_sheet_26
+    21300054: russian_death_sheet_27
+    21300056: russian_death_sheet_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: russian_death_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6111
+        width: 551
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.836655, y: 22.131104}
+        - {x: -7.1633453, y: 22.131104}
+        - {x: -19.163345, y: 2.1311035}
+        - {x: -19.163345, y: -13.8688965}
+        - {x: -8.163345, y: -20.868896}
+        - {x: 7.8366547, y: -20.868896}
+        - {x: 20.836655, y: -0.8688965}
+        - {x: 20.836655, y: 20.131104}
+    - name: russian_death_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 6114
+        width: 533
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.209557, y: 22.83908}
+        - {x: -18.209557, y: 5.839081}
+        - {x: -18.209557, y: -12.160919}
+        - {x: -10.209557, y: -21.16092}
+        - {x: 10.790443, y: -21.16092}
+        - {x: 19.790443, y: 1.8390808}
+        - {x: 19.790443, y: 22.83908}
+    - name: russian_death_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 6118
+        width: 516
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.219131, y: 21.616364}
+        - {x: -11.780869, y: 21.616364}
+        - {x: -17.780869, y: 6.6163635}
+        - {x: -17.780869, y: -18.383636}
+        - {x: -12.780869, y: -21.383636}
+        - {x: 6.2191315, y: -21.383636}
+        - {x: 10.219131, y: -18.383636}
+        - {x: 18.219131, y: 1.6163635}
+        - {x: 18.219131, y: 19.616364}
+    - name: russian_death_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 6125
+        width: 494
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.671326, y: 22.101624}
+        - {x: -11.328674, y: 22.101624}
+        - {x: -17.328674, y: 9.101624}
+        - {x: -17.328674, y: -16.898376}
+        - {x: -11.328674, y: -20.898376}
+        - {x: 7.6713257, y: -20.898376}
+        - {x: 17.671326, y: -2.8983765}
+        - {x: 17.671326, y: 20.101624}
+    - name: russian_death_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 5354
+        width: 472
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.163345, y: 21.153809}
+        - {x: -16.163345, y: 12.153809}
+        - {x: -16.163345, y: -15.846191}
+        - {x: -8.163345, y: -20.846191}
+        - {x: 10.836655, y: -20.846191}
+        - {x: 17.836655, y: 0.1538086}
+        - {x: 17.836655, y: 18.153809}
+        - {x: 13.836655, y: 21.153809}
+    - name: russian_death_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 5369
+        width: 461
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.20015, y: 41.269897}
+        - {x: -32.20015, y: 37.269897}
+        - {x: -32.20015, y: -26.730103}
+        - {x: -31.20015, y: -30.730103}
+        - {x: -20.20015, y: -40.730103}
+        - {x: 18.79985, y: -40.730103}
+        - {x: 32.79985, y: -6.7301025}
+        - {x: 32.79985, y: 29.269897}
+        - {x: 27.79985, y: 41.269897}
+    - name: russian_death_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 5354
+        width: 453
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.3732, y: 39.687744}
+        - {x: -25.6268, y: 39.687744}
+        - {x: -31.6268, y: 36.687744}
+        - {x: -31.6268, y: -25.312256}
+        - {x: -19.6268, y: -39.312256}
+        - {x: 17.3732, y: -39.312256}
+        - {x: 32.3732, y: 5.687744}
+        - {x: 32.3732, y: 23.687744}
+        - {x: 30.3732, y: 34.687744}
+    - name: russian_death_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 5347
+        width: 429
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.632782, y: 40.716064}
+        - {x: -29.632782, y: 25.716064}
+        - {x: -29.632782, y: -23.283936}
+        - {x: -12.632782, y: -40.283936}
+        - {x: 30.367218, y: -40.283936}
+        - {x: 30.367218, y: 29.716064}
+        - {x: 26.367218, y: 40.716064}
+    - name: russian_death_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4569
+        width: 411
+        height: 569
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.249424, y: 40.222046}
+        - {x: -28.249424, y: 31.222046}
+        - {x: -28.249424, y: -15.777954}
+        - {x: -11.249424, y: -36.777954}
+        - {x: -1.249424, y: -39.777954}
+        - {x: 22.750576, y: -39.777954}
+        - {x: 29.750576, y: -36.777954}
+        - {x: 29.750576, y: 32.222046}
+        - {x: 20.750576, y: 40.222046}
+    - name: russian_death_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 4605
+        width: 457
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.70015, y: 39.219177}
+        - {x: -31.70015, y: 38.219177}
+        - {x: -31.70015, y: -19.780823}
+        - {x: -23.70015, y: -38.780823}
+        - {x: 30.29985, y: -38.780823}
+        - {x: 32.29985, y: -36.780823}
+        - {x: 32.29985, y: 34.219177}
+        - {x: 17.29985, y: 39.219177}
+    - name: russian_death_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 4598
+        width: 507
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.782471, y: 19.74582}
+        - {x: 12.782471, y: 20.74582}
+        - {x: -13.217529, y: 20.74582}
+        - {x: -17.21753, y: 12.745819}
+        - {x: -17.21753, y: -3.254181}
+        - {x: -15.217529, y: -13.254181}
+        - {x: -4.2175293, y: -19.25418}
+        - {x: 16.78247, y: -19.25418}
+        - {x: 18.78247, y: -15.254181}
+        - {x: 18.78247, y: 10.745819}
+    - name: russian_death_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 4602
+        width: 541
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.561737, y: 19.023132}
+        - {x: -18.561737, y: 12.023132}
+        - {x: -18.561737, y: -8.976868}
+        - {x: -10.561737, y: -18.976868}
+        - {x: 19.438263, y: -18.976868}
+        - {x: 19.438263, y: 6.0231323}
+        - {x: 6.438263, y: 19.023132}
+    - name: russian_death_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3806
+        width: 551
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.163345, y: 18.842255}
+        - {x: -19.163345, y: 16.842255}
+        - {x: -19.163345, y: -8.157745}
+        - {x: -10.163345, y: -17.157745}
+        - {x: 13.836655, y: -17.157745}
+        - {x: 20.836655, y: -14.157745}
+        - {x: 20.836655, y: 6.8422546}
+        - {x: 9.836655, y: 18.842255}
+    - name: russian_death_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 3834
+        width: 560
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.041428, y: 17.783295}
+        - {x: -19.041428, y: 12.783295}
+        - {x: -19.041428, y: -6.2167053}
+        - {x: -11.041428, y: -16.216705}
+        - {x: 16.958572, y: -16.216705}
+        - {x: 20.958572, y: -10.216705}
+        - {x: 20.958572, y: 10.783295}
+        - {x: 4.9585724, y: 17.783295}
+    - name: russian_death_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 3852
+        width: 566
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.791046, y: 29.195435}
+        - {x: 6.791046, y: 33.195435}
+        - {x: -39.208954, y: 33.195435}
+        - {x: -39.208954, y: -31.804565}
+        - {x: 25.791046, y: -31.804565}
+        - {x: 32.791046, y: -23.804565}
+        - {x: 39.791046, y: -10.804565}
+        - {x: 39.791046, y: 13.195435}
+    - name: russian_death_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3834
+        width: 598
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.828674, y: 17.783295}
+        - {x: -20.828674, y: 16.783295}
+        - {x: -20.828674, y: -14.216705}
+        - {x: -14.828674, y: -16.216705}
+        - {x: 20.171326, y: -16.216705}
+        - {x: 21.171326, y: -15.216705}
+        - {x: 21.171326, y: 9.783295}
+        - {x: -1.8286743, y: 17.783295}
+    - name: russian_death_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2995
+        width: 612
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.13984, y: 19.121521}
+        - {x: -21.13984, y: -5.878479}
+        - {x: -20.13984, y: -10.878479}
+        - {x: -1.1398392, y: -17.878479}
+        - {x: 15.860161, y: -17.878479}
+        - {x: 21.86016, y: -11.878479}
+        - {x: 21.86016, y: 14.121521}
+        - {x: 8.860161, y: 19.121521}
+    - name: russian_death_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2955
+        width: 598
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.318329, y: 8.848618}
+        - {x: -3.6816711, y: 20.848618}
+        - {x: -17.681671, y: 20.848618}
+        - {x: -20.681671, y: 16.848618}
+        - {x: -20.681671, y: -9.151382}
+        - {x: 3.3183289, y: -19.151382}
+        - {x: 15.318329, y: -19.151382}
+        - {x: 19.318329, y: -16.151382}
+        - {x: 22.318329, y: -9.151382}
+        - {x: 22.318329, y: 2.8486176}
+    - name: russian_death_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2970
+        width: 613
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.019913, y: 19.888458}
+        - {x: -21.019913, y: 17.888458}
+        - {x: -21.019913, y: -9.111542}
+        - {x: -3.0199127, y: -18.111542}
+        - {x: 12.980087, y: -18.111542}
+        - {x: 22.980087, y: -11.111542}
+        - {x: 22.980087, y: 6.8884583}
+        - {x: 4.9800873, y: 19.888458}
+    - name: russian_death_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2955
+        width: 605
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.95897, y: 8.848618}
+        - {x: -4.041031, y: 18.848618}
+        - {x: -21.04103, y: 18.848618}
+        - {x: -21.04103, y: -13.151382}
+        - {x: -16.04103, y: -17.151382}
+        - {x: 18.95897, y: -17.151382}
+        - {x: 21.95897, y: -10.151382}
+        - {x: 21.95897, y: 5.8486176}
+    - name: russian_death_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2231
+        width: 590
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.866932, y: 17.158966}
+        - {x: -20.866932, y: -9.841034}
+        - {x: -10.866932, y: -15.841034}
+        - {x: 14.133068, y: -15.841034}
+        - {x: 21.133068, y: -7.841034}
+        - {x: 21.133068, y: 9.158966}
+        - {x: 1.1330681, y: 17.158966}
+    - name: russian_death_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2235
+        width: 566
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.197296, y: 32.23993}
+        - {x: -39.197296, y: -29.76007}
+        - {x: -32.197296, y: -31.76007}
+        - {x: 21.802704, y: -31.76007}
+        - {x: 37.802704, y: -26.76007}
+        - {x: 39.802704, y: -18.76007}
+        - {x: 39.802704, y: 20.23993}
+        - {x: 1.8027039, y: 32.23993}
+    - name: russian_death_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2203
+        width: 605
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.23227, y: 18.217941}
+        - {x: -21.23227, y: 14.217941}
+        - {x: -21.23227, y: -9.782059}
+        - {x: -7.2322693, y: -16.782059}
+        - {x: 14.767731, y: -16.782059}
+        - {x: 21.76773, y: -8.782059}
+        - {x: 21.76773, y: 7.2179413}
+        - {x: -2.2322693, y: 18.217941}
+    - name: russian_death_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 2141
+        width: 598
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.55577, y: 20.419922}
+        - {x: -20.55577, y: 18.419922}
+        - {x: -20.55577, y: -9.580078}
+        - {x: 2.4442291, y: -19.580078}
+        - {x: 16.44423, y: -19.580078}
+        - {x: 22.44423, y: -12.580078}
+        - {x: 22.44423, y: 5.419922}
+        - {x: 0.44422913, y: 20.419922}
+    - name: russian_death_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1302
+        width: 602
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.896414, y: 19.758171}
+        - {x: -20.896414, y: 18.758171}
+        - {x: -20.896414, y: -6.241829}
+        - {x: 1.1035862, y: -19.241829}
+        - {x: 17.103586, y: -19.241829}
+        - {x: 21.103586, y: -17.241829}
+        - {x: 21.103586, y: 10.758171}
+        - {x: 8.103586, y: 19.758171}
+    - name: russian_death_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1302
+        width: 598
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.542633, y: 19.758171}
+        - {x: -20.457367, y: 19.758171}
+        - {x: -20.457367, y: -9.241829}
+        - {x: -4.457367, y: -19.241829}
+        - {x: 19.542633, y: -19.241829}
+        - {x: 21.542633, y: -13.241829}
+        - {x: 21.542633, y: 5.758171}
+    - name: russian_death_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1302
+        width: 598
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.978485, y: 19.758171}
+        - {x: -20.978485, y: -10.241829}
+        - {x: -3.978485, y: -19.241829}
+        - {x: 14.021515, y: -19.241829}
+        - {x: 18.021515, y: -18.241829}
+        - {x: 21.021515, y: -12.241829}
+        - {x: 21.021515, y: 12.758171}
+        - {x: 5.021515, y: 19.758171}
+    - name: russian_death_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1299
+        width: 602
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.416351, y: 9.550201}
+        - {x: -1.5836487, y: 19.550201}
+        - {x: -17.583649, y: 19.550201}
+        - {x: -20.583649, y: 17.550201}
+        - {x: -20.583649, y: -12.449799}
+        - {x: -0.5836487, y: -19.449799}
+        - {x: 18.416351, y: -19.449799}
+        - {x: 22.416351, y: -13.449799}
+        - {x: 22.416351, y: 2.5502014}
+        - {x: 21.416351, y: 6.5502014}
+    - name: russian_death_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 376
+        width: 598
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.652987, y: 19.56534}
+        - {x: -20.652987, y: -13.43466}
+        - {x: -5.6529865, y: -19.43466}
+        - {x: 22.347013, y: -19.43466}
+        - {x: 22.347013, y: 15.56534}
+        - {x: 3.3470135, y: 19.56534}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

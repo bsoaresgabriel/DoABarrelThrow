@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 4fe21bdab3dde9f4185b926fc4eaf839
+timeCreated: 1457636666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: russian_nobarrel_sheet_0
+    21300002: russian_nobarrel_sheet_1
+    21300004: russian_nobarrel_sheet_2
+    21300006: russian_nobarrel_sheet_3
+    21300008: russian_nobarrel_sheet_4
+    21300010: russian_nobarrel_sheet_5
+    21300012: russian_nobarrel_sheet_6
+    21300014: russian_nobarrel_sheet_7
+    21300016: russian_nobarrel_sheet_8
+    21300018: russian_nobarrel_sheet_9
+    21300020: russian_nobarrel_sheet_10
+    21300022: russian_nobarrel_sheet_11
+    21300024: russian_nobarrel_sheet_12
+    21300026: russian_nobarrel_sheet_13
+    21300028: russian_nobarrel_sheet_14
+    21300030: russian_nobarrel_sheet_15
+    21300032: russian_nobarrel_sheet_16
+    21300034: russian_nobarrel_sheet_17
+    21300036: russian_nobarrel_sheet_18
+    21300038: russian_nobarrel_sheet_19
+    21300040: russian_nobarrel_sheet_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: russian_nobarrel_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 4272
+        width: 372
+        height: 488
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.346348, y: 20.567688}
+        - {x: -19.346348, y: -24.432312}
+        - {x: -16.346348, y: -27.432312}
+        - {x: -11.346348, y: -30.432312}
+        - {x: 19.653652, y: -30.432312}
+        - {x: 19.653652, y: 18.567688}
+        - {x: 14.653652, y: 20.567688}
+    - name: russian_nobarrel_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 4265
+        width: 347
+        height: 495
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.072693, y: 21.270813}
+        - {x: -18.072693, y: 19.270813}
+        - {x: -18.072693, y: -30.729187}
+        - {x: 13.927307, y: -30.729187}
+        - {x: 18.927307, y: -24.729187}
+        - {x: 18.927307, y: 11.270813}
+        - {x: 15.927307, y: 21.270813}
+    - name: russian_nobarrel_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 4257
+        width: 315
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.335236, y: 21.860077}
+        - {x: -16.335236, y: -31.139923}
+        - {x: 17.664764, y: -31.139923}
+        - {x: 17.664764, y: 17.860077}
+        - {x: 14.664764, y: 21.860077}
+    - name: russian_nobarrel_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 4253
+        width: 300
+        height: 507
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.06311, y: 85.118774}
+        - {x: -62.06311, y: 55.118774}
+        - {x: -62.06311, y: -118.881226}
+        - {x: -54.06311, y: -125.881226}
+        - {x: 61.93689, y: -125.881226}
+        - {x: 62.93689, y: -124.881226}
+        - {x: 62.93689, y: 85.118774}
+    - name: russian_nobarrel_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3535
+        width: 331
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.346348, y: 22.566345}
+        - {x: -17.346348, y: -31.433655}
+        - {x: 17.653652, y: -31.433655}
+        - {x: 17.653652, y: 19.566345}
+        - {x: 12.653652, y: 22.566345}
+    - name: russian_nobarrel_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3523
+        width: 377
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.849518, y: 22.700226}
+        - {x: -16.849518, y: 19.700226}
+        - {x: -19.849518, y: 14.700226}
+        - {x: -19.849518, y: -16.299774}
+        - {x: -16.849518, y: -30.299774}
+        - {x: -13.849518, y: -32.299774}
+        - {x: 17.150482, y: -32.299774}
+        - {x: 20.150482, y: -22.299774}
+        - {x: 20.150482, y: 22.700226}
+    - name: russian_nobarrel_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 3521
+        width: 423
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.886673, y: 22.472595}
+        - {x: -8.113327, y: 22.472595}
+        - {x: -17.113327, y: 19.472595}
+        - {x: -22.113327, y: 14.472595}
+        - {x: -22.113327, y: -8.527405}
+        - {x: -15.113327, y: -32.527405}
+        - {x: 8.886673, y: -32.527405}
+        - {x: 22.886673, y: -13.527405}
+        - {x: 22.886673, y: 3.4725952}
+    - name: russian_nobarrel_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 3521
+        width: 466
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.152695, y: 22.472595}
+        - {x: -24.152695, y: 12.472595}
+        - {x: -24.152695, y: -8.527405}
+        - {x: -10.152695, y: -32.527405}
+        - {x: 8.847305, y: -32.527405}
+        - {x: 24.847305, y: -18.527405}
+        - {x: 24.847305, y: 14.472595}
+        - {x: 14.847305, y: 22.472595}
+    - name: russian_nobarrel_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2789
+        width: 510
+        height: 519
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.609524, y: 22.768127}
+        - {x: -26.609524, y: 17.768127}
+        - {x: -26.609524, y: -1.2318726}
+        - {x: -13.609524, y: -32.231873}
+        - {x: 10.390476, y: -32.231873}
+        - {x: 27.390476, y: -17.231873}
+        - {x: 27.390476, y: 9.768127}
+        - {x: 8.390476, y: 22.768127}
+    - name: russian_nobarrel_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2794
+        width: 548
+        height: 514
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.3533325, y: 21.837341}
+        - {x: -27.353333, y: 19.837341}
+        - {x: -28.353333, y: 17.837341}
+        - {x: -28.353333, y: -1.1626587}
+        - {x: -10.3533325, y: -32.16266}
+        - {x: 9.6466675, y: -32.16266}
+        - {x: 28.646667, y: -15.162659}
+        - {x: 28.646667, y: 4.8373413}
+        - {x: 9.6466675, y: 21.837341}
+    - name: russian_nobarrel_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2801
+        width: 580
+        height: 507
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.59967, y: 22.634216}
+        - {x: -29.59967, y: 20.634216}
+        - {x: -29.59967, y: -4.3657837}
+        - {x: -13.59967, y: -31.365784}
+        - {x: 11.40033, y: -31.365784}
+        - {x: 31.40033, y: -14.365784}
+        - {x: 31.40033, y: 8.634216}
+        - {x: 10.40033, y: 22.634216}
+    - name: russian_nobarrel_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2794
+        width: 552
+        height: 514
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.602844, y: 21.837341}
+        - {x: -28.602844, y: 15.837341}
+        - {x: -28.602844, y: -16.162659}
+        - {x: -7.602844, y: -32.16266}
+        - {x: 17.397156, y: -32.16266}
+        - {x: 30.397156, y: -14.162659}
+        - {x: 30.397156, y: 9.837341}
+        - {x: 10.397156, y: 21.837341}
+    - name: russian_nobarrel_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1929
+        width: 512
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.160635, y: 22.733917}
+        - {x: -26.160635, y: 21.733917}
+        - {x: -26.160635, y: -4.266083}
+        - {x: -14.160635, y: -32.266083}
+        - {x: 11.839365, y: -32.266083}
+        - {x: 27.839365, y: -18.266083}
+        - {x: 27.839365, y: 10.733917}
+        - {x: 9.839365, y: 22.733917}
+    - name: russian_nobarrel_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1922
+        width: 471
+        height: 529
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.385712, y: 23.437027}
+        - {x: -24.385712, y: 16.437027}
+        - {x: -24.385712, y: -2.562973}
+        - {x: -6.3857117, y: -32.562973}
+        - {x: 11.614288, y: -32.562973}
+        - {x: 24.614288, y: -10.562973}
+        - {x: 24.614288, y: 12.437027}
+        - {x: 13.614288, y: 23.437027}
+    - name: russian_nobarrel_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1915
+        width: 428
+        height: 536
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.869217, y: 21.640121}
+        - {x: 8.869217, y: 22.640121}
+        - {x: -12.130783, y: 22.640121}
+        - {x: -18.130783, y: 21.640121}
+        - {x: -22.130783, y: 10.640121}
+        - {x: -22.130783, y: -10.359879}
+        - {x: -10.130783, y: -33.35988}
+        - {x: 4.869217, y: -33.35988}
+        - {x: 10.869217, y: -30.359879}
+        - {x: 23.869217, y: -12.359879}
+        - {x: 23.869217, y: 1.6401215}
+    - name: russian_nobarrel_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1917
+        width: 382
+        height: 534
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.616501, y: 22.867813}
+        - {x: -19.6165, y: 17.867813}
+        - {x: -19.6165, y: -16.132187}
+        - {x: -13.616501, y: -33.132187}
+        - {x: 6.383499, y: -33.132187}
+        - {x: 20.3835, y: -13.132187}
+        - {x: 20.3835, y: 16.867813}
+        - {x: 9.383499, y: 22.867813}
+    - name: russian_nobarrel_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1064
+        width: 334
+        height: 527
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.601273, y: 22.161514}
+        - {x: -4.3987274, y: 22.161514}
+        - {x: -16.398727, y: 19.161514}
+        - {x: -17.398727, y: 16.161514}
+        - {x: -17.398727, y: -16.838486}
+        - {x: -16.398727, y: -25.838486}
+        - {x: -14.398727, y: -32.838486}
+        - {x: 11.601273, y: -32.838486}
+        - {x: 17.601273, y: -27.838486}
+        - {x: 18.601273, y: -18.838486}
+        - {x: 18.601273, y: 16.161514}
+    - name: russian_nobarrel_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1081
+        width: 297
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.565063, y: 85.38727}
+        - {x: -61.565063, y: 51.387268}
+        - {x: -61.565063, y: -126.61273}
+        - {x: 62.434937, y: -126.61273}
+        - {x: 62.434937, y: 77.38727}
+        - {x: 39.434937, y: 85.38727}
+    - name: russian_nobarrel_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1095
+        width: 311
+        height: 496
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.868881, y: 21.19062}
+        - {x: -15.868881, y: 17.19062}
+        - {x: -15.868881, y: -29.80938}
+        - {x: -14.868881, y: -30.80938}
+        - {x: 14.131119, y: -30.80938}
+        - {x: 17.131119, y: -22.80938}
+        - {x: 17.131119, y: 21.19062}
+    - name: russian_nobarrel_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1097
+        width: 346
+        height: 494
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.857147, y: 21.418297}
+        - {x: -17.857147, y: 18.418297}
+        - {x: -17.857147, y: -28.581703}
+        - {x: -15.857147, y: -29.581703}
+        - {x: -8.857147, y: -30.581703}
+        - {x: 13.142853, y: -30.581703}
+        - {x: 18.142853, y: -21.581703}
+        - {x: 18.142853, y: 7.418297}
+        - {x: 14.142853, y: 21.418297}
+    - name: russian_nobarrel_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 238
+        width: 377
+        height: 488
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.398727, y: -29.4193}
+        - {x: -16.398727, y: -30.4193}
+        - {x: 18.601273, y: -30.4193}
+        - {x: 20.601273, y: -28.4193}
+        - {x: 20.601273, y: 12.5807}
+        - {x: 13.601273, y: 21.5807}
+        - {x: -19.398727, y: 21.5807}
+        - {x: -19.398727, y: -25.4193}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

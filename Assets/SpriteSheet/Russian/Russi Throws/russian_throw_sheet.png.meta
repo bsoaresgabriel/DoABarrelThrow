@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 810b28192b164a543a2ea7a832f1479e
+timeCreated: 1457502878
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: russian_throw_sheet_0
+    21300002: russian_throw_sheet_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: russian_throw_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 817
+        width: 519
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.787857, y: 113.18506}
+        - {x: -73.78786, y: 113.18506}
+        - {x: -75.78786, y: 106.18506}
+        - {x: -74.78786, y: 100.18506}
+        - {x: -63.787857, y: 85.18506}
+        - {x: -37.787857, y: 77.18506}
+        - {x: -35.787857, y: 77.18506}
+        - {x: -33.787857, y: 80.18506}
+        - {x: -22.787857, y: 80.18506}
+        - {x: -43.787857, y: 75.18506}
+        - {x: -49.787857, y: 80.18506}
+        - {x: -79.78786, y: 69.18506}
+        - {x: -83.78786, y: 48.18506}
+        - {x: -83.78786, y: -94.81494}
+        - {x: -77.78786, y: -98.81494}
+        - {x: -63.787857, y: -93.81494}
+        - {x: -56.787857, y: -84.81494}
+        - {x: -13.787857, y: -84.81494}
+        - {x: -9.787857, y: -70.81494}
+        - {x: -11.787857, y: -58.81494}
+        - {x: -13.787857, y: -55.81494}
+        - {x: -15.787857, y: -50.81494}
+        - {x: -12.787857, y: -56.81494}
+        - {x: -9.787857, y: -60.81494}
+        - {x: -8.787857, y: -67.81494}
+        - {x: -2.787857, y: -76.81494}
+        - {x: 59.212143, y: -111.81494}
+        - {x: 85.21214, y: -111.81494}
+        - {x: 85.21214, y: 24.185059}
+        - {x: 65.21214, y: 65.18506}
+    - name: russian_throw_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 519
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.977936, y: -56.595284}
+        - {x: 14.977936, y: -52.595284}
+        - {x: 15.977936, y: -56.595284}
+        - {x: 13.977936, y: -58.595284}
+        - {x: 13.977936, y: -62.595284}
+        - {x: 5.977936, y: -96.59528}
+        - {x: 53.977936, y: -111.59528}
+        - {x: 71.977936, y: -111.59528}
+        - {x: 85.977936, y: -103.59528}
+        - {x: 85.977936, y: 113.40472}
+        - {x: -20.022064, y: 113.40472}
+        - {x: -28.022064, y: 112.40472}
+        - {x: -84.022064, y: 16.404716}
+        - {x: -84.022064, y: -85.59528}
+        - {x: -82.022064, y: -91.59528}
+        - {x: -71.022064, y: -111.59528}
+        - {x: -60.022064, y: -111.59528}
+        - {x: 5.977936, y: -77.59528}
+        - {x: 10.977936, y: -66.59528}
+        - {x: 8.977936, y: -62.595284}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

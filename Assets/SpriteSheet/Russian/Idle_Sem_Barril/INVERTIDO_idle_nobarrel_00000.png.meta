@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: fc8ecf3bb5d32e645951ec9c620179bc
+timeCreated: 1457635618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INVERTIDO_idle_nobarrel_00000_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INVERTIDO_idle_nobarrel_00000_0
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 224
+        width: 527
+        height: 537
+      alignment: 9
+      pivot: {x: 0.478205, y: 0.5721887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.159042, y: 76.9855}
+        - {x: -21.840958, y: 76.9855}
+        - {x: -64.84096, y: 47.985497}
+        - {x: -82.84096, y: -12.0145035}
+        - {x: -82.84096, y: -75.0145}
+        - {x: -15.840958, y: -97.0145}
+        - {x: -9.840958, y: -89.0145}
+        - {x: 13.159042, y: -101.0145}
+        - {x: 43.159042, y: -101.0145}
+        - {x: 91.15904, y: -81.0145}
+        - {x: 91.15904, y: 4.9854965}
+        - {x: 79.15904, y: 55.985497}
+      - - {x: -75.84096, y: -84.0145}
+        - {x: -77.84096, y: -86.0145}
+        - {x: -77.84096, y: -91.0145}
+        - {x: -75.84096, y: -92.0145}
+        - {x: -70.84096, y: -92.0145}
+        - {x: -69.84096, y: -91.0145}
+        - {x: -69.84096, y: -88.0145}
+        - {x: -71.84096, y: -84.0145}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

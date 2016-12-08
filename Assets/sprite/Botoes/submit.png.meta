@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: b1210a84d9e6b6e4eb8c5415e9ded36d
+timeCreated: 1461719987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: submit_0
+    21300002: submit_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: submit_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 56
+        width: 592
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 290, y: -34}
+        - {x: 294, y: -29}
+        - {x: 296, y: -22}
+        - {x: 296, y: 19}
+        - {x: 295, y: 22}
+        - {x: 291, y: 31}
+        - {x: 285, y: 39}
+        - {x: 266, y: 58}
+        - {x: 263, y: 59}
+        - {x: -266, y: 59}
+        - {x: -279, y: 53}
+        - {x: -289, y: 43}
+        - {x: -296, y: 24}
+        - {x: -296, y: -26}
+        - {x: -290, y: -36}
+        - {x: -283, y: -44}
+        - {x: -277, y: -50}
+        - {x: -270, y: -54}
+        - {x: -256, y: -58}
+        - {x: -244, y: -59}
+        - {x: 253, y: -59}
+        - {x: 264, y: -56}
+        - {x: 276, y: -48}
+    - name: submit_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 236
+        width: 392
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 185, y: -52.5}
+        - {x: 196, y: 3.5}
+        - {x: 196, y: 52.5}
+        - {x: -196, y: 52.5}
+        - {x: -196, y: -52.5}
+        - {x: -132, y: -52.5}
+        - {x: -131, y: -51.5}
+        - {x: -129, y: -44.5}
+        - {x: -119, y: -52.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,86 @@
+fileFormatVersion: 2
+guid: 5cb17e3f302184b4bb11bf9be5687099
+timeCreated: 1457635609
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle_nobarrel_00000_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idle_nobarrel_00000_0
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 224
+        width: 527
+        height: 537
+      alignment: 9
+      pivot: {x: 0.513622, y: 0.56684136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.986008, y: 77.9309}
+        - {x: -59.986008, y: 69.9309}
+        - {x: -88.98601, y: -1.0690994}
+        - {x: -88.98601, y: -75.0691}
+        - {x: -61.986008, y: -100.0691}
+        - {x: 76.01399, y: -100.0691}
+        - {x: 85.01399, y: -95.0691}
+        - {x: 85.01399, y: -17.0691}
+        - {x: 28.013992, y: 77.9309}
+      - - {x: 78.01399, y: -83.0691}
+        - {x: 73.01399, y: -85.0691}
+        - {x: 73.01399, y: -88.0691}
+        - {x: 76.01399, y: -91.0691}
+        - {x: 80.01399, y: -91.0691}
+        - {x: 82.01399, y: -87.0691}
+        - {x: 82.01399, y: -85.0691}
+        - {x: 81.01399, y: -83.0691}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

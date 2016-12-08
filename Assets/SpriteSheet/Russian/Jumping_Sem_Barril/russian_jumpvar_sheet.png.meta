@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 55ef372d820a6954fb265159ba182498
+timeCreated: 1457633454
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: russian_jumpvar_sheet_0
+    21300002: russian_jumpvar_sheet_1
+    21300004: russian_jumpvar_sheet_2
+    21300006: russian_jumpvar_sheet_3
+    21300008: russian_jumpvar_sheet_4
+    21300010: russian_jumpvar_sheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: russian_jumpvar_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 833
+        width: 456
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.571655, y: 64.63031}
+        - {x: -51.571655, y: 42.63031}
+        - {x: -51.571655, y: -21.36969}
+        - {x: -42.571655, y: -63.36969}
+        - {x: 24.428345, y: -63.36969}
+        - {x: 53.428345, y: -10.36969}
+        - {x: 53.428345, y: 27.63031}
+        - {x: 10.428345, y: 64.63031}
+    - name: russian_jumpvar_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 843
+        width: 449
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.027893, y: 63.906784}
+        - {x: -51.027893, y: -62.093216}
+        - {x: 21.972107, y: -62.093216}
+        - {x: 52.972107, y: -14.093216}
+        - {x: 52.972107, y: 22.906784}
+        - {x: 17.972107, y: 63.906784}
+    - name: russian_jumpvar_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 858
+        width: 442
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.788208, y: 59.321503}
+        - {x: 9.788208, y: 61.321503}
+        - {x: -26.211792, y: 61.321503}
+        - {x: -50.211792, y: 47.321503}
+        - {x: -50.211792, y: -40.678497}
+        - {x: -41.211792, y: -60.678497}
+        - {x: 31.788208, y: -60.678497}
+        - {x: 51.788208, y: -8.678497}
+        - {x: 51.788208, y: 31.321503}
+    - name: russian_jumpvar_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 435
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.009514, y: 58.236526}
+        - {x: 39.009514, y: 59.236526}
+        - {x: -14.990486, y: 59.236526}
+        - {x: -49.990486, y: 35.236526}
+        - {x: -49.990486, y: -10.7634735}
+        - {x: -42.990486, y: -44.763474}
+        - {x: -38.990486, y: -58.763474}
+        - {x: -25.990486, y: -58.763474}
+        - {x: -14.990486, y: -53.763474}
+        - {x: 26.009514, y: -58.763474}
+        - {x: 50.009514, y: -44.763474}
+    - name: russian_jumpvar_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 166
+        width: 427
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.94673, y: 57.789474}
+        - {x: -48.94673, y: 54.789474}
+        - {x: -48.94673, y: -51.210526}
+        - {x: -44.94673, y: -56.210526}
+        - {x: 40.05327, y: -56.210526}
+        - {x: 41.05327, y: -55.210526}
+        - {x: 49.05327, y: -27.210526}
+        - {x: 49.05327, y: 57.789474}
+    - name: russian_jumpvar_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 182
+        width: 418
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.675323, y: 55.431835}
+        - {x: -47.675323, y: 42.431835}
+        - {x: -47.675323, y: -3.5681648}
+        - {x: -39.675323, y: -54.568165}
+        - {x: 48.324677, y: -54.568165}
+        - {x: 48.324677, y: 41.431835}
+        - {x: 20.324677, y: 55.431835}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

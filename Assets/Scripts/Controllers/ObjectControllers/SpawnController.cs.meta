@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8eaa8f7f51ee0574089c104fd914d434
+timeCreated: 1461198347
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - barrilPrefab: {fileID: 131590, guid: 1d97e1c19ff35824a8cd95ca2ad29f70, type: 2}
+  - barrilDoublePrefab: {fileID: 127156, guid: 5bd35183bc25b4149a29d1d60d00e13a, type: 2}
+  - barrilEscudoPrefab: {fileID: 130900, guid: 6426f7e640de89f4eae0cc4d0bbab973, type: 2}
+  - spikePrefab: {fileID: 165524, guid: ccd0fb90a50041242bd269c1f0315b78, type: 2}
+  - lazerPrefab: {fileID: 144390, guid: e446dbd829d97b247bc6e8443451f206, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

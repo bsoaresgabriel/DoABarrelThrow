@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 30eddf4a932b5c0458d6148121bc34e3
+timeCreated: 1456375312
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INVERTIDO_russian_jump_sheet_0
+    21300002: INVERTIDO_russian_jump_sheet_1
+    21300004: INVERTIDO_russian_jump_sheet_2
+    21300006: INVERTIDO_russian_jump_sheet_3
+    21300008: INVERTIDO_russian_jump_sheet_4
+    21300010: INVERTIDO_russian_jump_sheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INVERTIDO_russian_jump_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 825
+        width: 450
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.459106, y: 74.28432}
+        - {x: -53.459106, y: 57.284317}
+        - {x: -53.459106, y: 23.284317}
+        - {x: -15.459106, y: -64.71568}
+        - {x: -3.4591064, y: -73.71568}
+        - {x: 49.540894, y: -73.71568}
+        - {x: 54.540894, y: -70.71568}
+        - {x: 54.540894, y: 74.28432}
+    - name: INVERTIDO_russian_jump_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 834
+        width: 458
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.351135, y: 73.4147}
+        - {x: -54.351135, y: 4.4147034}
+        - {x: -36.351135, y: -72.5853}
+        - {x: 54.648865, y: -72.5853}
+        - {x: 54.648865, y: 73.4147}
+    - name: INVERTIDO_russian_jump_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 849
+        width: 465
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.993526, y: 37.465317}
+        - {x: 30.993526, y: 72.46532}
+        - {x: -40.006474, y: 72.46532}
+        - {x: -55.006474, y: 52.465317}
+        - {x: -55.006474, y: 9.465317}
+        - {x: -23.006474, y: -70.53468}
+        - {x: 41.993526, y: -70.53468}
+        - {x: 45.993526, y: -66.53468}
+        - {x: 49.993526, y: -54.534683}
+        - {x: 56.993526, y: -16.534683}
+    - name: INVERTIDO_russian_jump_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 137
+        width: 474
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.040894, y: 69.42903}
+        - {x: -55.959106, y: 69.42903}
+        - {x: -55.959106, y: -68.57097}
+        - {x: 55.040894, y: -68.57097}
+        - {x: 57.040894, y: -62.57097}
+        - {x: 57.040894, y: 44.42903}
+        - {x: 42.040894, y: 67.42903}
+    - name: INVERTIDO_russian_jump_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 157
+        width: 483
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.351135, y: 66.66319}
+        - {x: -57.351135, y: 65.66319}
+        - {x: -57.351135, y: -4.3368073}
+        - {x: -34.351135, y: -66.33681}
+        - {x: 57.648865, y: -66.33681}
+        - {x: 57.648865, y: 50.663193}
+        - {x: 41.648865, y: 66.66319}
+    - name: INVERTIDO_russian_jump_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 172
+        width: 488
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.506474, y: 65.71382}
+        - {x: -57.506474, y: -64.28618}
+        - {x: 46.493526, y: -64.28618}
+        - {x: 50.493526, y: -62.28618}
+        - {x: 59.493526, y: -57.28618}
+        - {x: 59.493526, y: 65.71382}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

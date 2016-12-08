@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: f87d1e7934d53944ebc131193618cebe
+timeCreated: 1457771169
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: beam_on_sheet_0
+    21300002: beam_on_sheet_1
+    21300004: beam_on_sheet_2
+    21300006: beam_on_sheet_3
+    21300008: beam_on_sheet_4
+    21300010: beam_on_sheet_5
+    21300012: beam_on_sheet_6
+    21300014: beam_on_sheet_7
+    21300016: beam_on_sheet_8
+    21300018: beam_on_sheet_9
+    21300020: beam_on_sheet_10
+    21300022: beam_on_sheet_11
+    21300024: beam_on_sheet_12
+    21300026: beam_on_sheet_13
+    21300028: beam_on_sheet_14
+    21300030: beam_on_sheet_15
+    21300032: beam_on_sheet_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: beam_on_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1127
+        width: 206
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: beam_on_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1121
+        width: 206
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: beam_on_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1099
+        width: 206
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 30}
+        - {x: -103, y: -30}
+        - {x: 103, y: -30}
+        - {x: 103, y: 30}
+    - name: beam_on_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1080
+        width: 206
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 50.5}
+        - {x: -103, y: -50.5}
+        - {x: 103, y: -50.5}
+        - {x: 103, y: 50.5}
+    - name: beam_on_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1075
+        width: 206
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 56}
+        - {x: -103, y: -56}
+        - {x: 103, y: -56}
+        - {x: 103, y: 56}
+    - name: beam_on_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 729
+        width: 206
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 57}
+        - {x: -103, y: -57}
+        - {x: 103, y: -57}
+        - {x: 103, y: 57}
+    - name: beam_on_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 731
+        width: 206
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 55}
+        - {x: -103, y: -55}
+        - {x: 103, y: -55}
+        - {x: 103, y: 55}
+    - name: beam_on_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 735
+        width: 206
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 51}
+        - {x: -103, y: -51}
+        - {x: 103, y: -51}
+        - {x: 103, y: 51}
+    - name: beam_on_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 739
+        width: 206
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 46}
+        - {x: -103, y: -46}
+        - {x: 103, y: -46}
+        - {x: 103, y: 46}
+    - name: beam_on_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 743
+        width: 206
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 42}
+        - {x: -103, y: -42}
+        - {x: 103, y: -42}
+        - {x: 103, y: 42}
+    - name: beam_on_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 439
+        width: 206
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 37.5}
+        - {x: -103, y: -37.5}
+        - {x: 103, y: -37.5}
+        - {x: 103, y: 37.5}
+    - name: beam_on_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 442
+        width: 206
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 34}
+        - {x: -103, y: -34}
+        - {x: 103, y: -34}
+        - {x: 103, y: 34}
+    - name: beam_on_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 442
+        width: 206
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 34}
+        - {x: -103, y: -34}
+        - {x: 103, y: -34}
+        - {x: 103, y: 34}
+    - name: beam_on_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 442
+        width: 206
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 34}
+        - {x: -103, y: -34}
+        - {x: 103, y: -34}
+        - {x: 103, y: 34}
+    - name: beam_on_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 442
+        width: 206
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 34}
+        - {x: -103, y: -34}
+        - {x: 103, y: -34}
+        - {x: 103, y: 34}
+    - name: beam_on_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 113
+        width: 206
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 34}
+        - {x: -103, y: -34}
+        - {x: 103, y: -34}
+        - {x: 103, y: 34}
+    - name: beam_on_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 113
+        width: 206
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 34}
+        - {x: -103, y: -34}
+        - {x: 103, y: -34}
+        - {x: 103, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

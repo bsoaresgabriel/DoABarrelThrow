@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: ed26ec74402ec954bbbea666e5e006f3
+timeCreated: 1457988582
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barrel_on2_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: barrel_on2_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 563
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.396576, y: -153.63266}
+        - {x: 135.39658, y: -141.63266}
+        - {x: 159.39658, y: -114.63266}
+        - {x: 181.39658, y: -73.63266}
+        - {x: 186.39658, y: -58.63266}
+        - {x: 190.39658, y: -39.63266}
+        - {x: 193.39658, y: -19.63266}
+        - {x: 193.39658, y: 22.36734}
+        - {x: 190.39658, y: 41.36734}
+        - {x: 186.39658, y: 58.36734}
+        - {x: 206.39658, y: 61.36734}
+        - {x: 206.39658, y: 76.36734}
+        - {x: 196.39658, y: 92.36734}
+        - {x: 188.39658, y: 115.36734}
+        - {x: 171.39658, y: 109.36734}
+        - {x: 161.39658, y: 112.36734}
+        - {x: 156.39658, y: 123.36734}
+        - {x: 152.39658, y: 142.36734}
+        - {x: 142.39658, y: 142.36734}
+        - {x: 131.39658, y: 152.36734}
+        - {x: 110.396576, y: 166.36734}
+        - {x: 84.396576, y: 183.36734}
+        - {x: 41.396576, y: 198.36734}
+        - {x: 34.396576, y: 199.36734}
+        - {x: -46.603424, y: 199.36734}
+        - {x: -72.603424, y: 193.36734}
+        - {x: -98.603424, y: 182.36734}
+        - {x: -118.603424, y: 171.36734}
+        - {x: -149.60342, y: 146.36734}
+        - {x: -161.60342, y: 131.36734}
+        - {x: -178.60342, y: 108.36734}
+        - {x: -190.60342, y: 88.36734}
+        - {x: -201.60342, y: 58.36734}
+        - {x: -203.60342, y: 47.36734}
+        - {x: -205.60342, y: 37.36734}
+        - {x: -205.60342, y: -41.63266}
+        - {x: -195.60342, y: -74.63266}
+        - {x: -183.60342, y: -97.63266}
+        - {x: -167.60342, y: -121.63266}
+        - {x: -156.60342, y: -133.63266}
+        - {x: -134.60342, y: -156.63266}
+        - {x: -108.603424, y: -174.63266}
+        - {x: -84.603424, y: -186.63266}
+        - {x: -60.603424, y: -194.63266}
+        - {x: -43.603424, y: -197.63266}
+        - {x: 28.396576, y: -197.63266}
+        - {x: 33.396576, y: -196.63266}
+        - {x: 56.396576, y: -191.63266}
+        - {x: 94.396576, y: -174.63266}
+      - - {x: 191.39658, y: 55.36734}
+        - {x: 190.39658, y: 50.36734}
+        - {x: 193.39658, y: 46.36734}
+        - {x: 195.39658, y: 46.36734}
+        - {x: 200.39658, y: 50.36734}
+        - {x: 201.39658, y: 59.36734}
+        - {x: 198.39658, y: 61.36734}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

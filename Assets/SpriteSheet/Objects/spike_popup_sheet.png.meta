@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: fc4e27fd4989cce48b8c2040907b39d0
+timeCreated: 1457986972
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spike_popup_sheet_0
+    21300002: spike_popup_sheet_1
+    21300004: spike_popup_sheet_2
+    21300006: spike_popup_sheet_3
+    21300008: spike_popup_sheet_4
+    21300010: spike_popup_sheet_5
+    21300012: spike_popup_sheet_6
+    21300014: spike_popup_sheet_7
+    21300016: spike_popup_sheet_8
+    21300018: spike_popup_sheet_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spike_popup_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 894
+        width: 168
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.304825, y: 49.86383}
+        - {x: -77.304825, y: -49.13617}
+        - {x: 78.695175, y: -49.13617}
+        - {x: 78.695175, y: 48.86383}
+        - {x: 77.695175, y: 49.86383}
+    - name: spike_popup_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 894
+        width: 169
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.673782, y: 29.496109}
+        - {x: -19.673782, y: -27.503891}
+        - {x: 20.326218, y: -27.503891}
+        - {x: 20.326218, y: 29.496109}
+    - name: spike_popup_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 894
+        width: 169
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.049194, y: 41.49611}
+        - {x: -19.049194, y: -38.50389}
+        - {x: -18.049194, y: -39.50389}
+        - {x: 20.950806, y: -39.50389}
+        - {x: 20.950806, y: 41.49611}
+    - name: spike_popup_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 894
+        width: 169
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.424591, y: 41.49611}
+        - {x: -19.424591, y: -39.50389}
+        - {x: 20.575409, y: -39.50389}
+        - {x: 20.575409, y: 41.49611}
+    - name: spike_popup_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 894
+        width: 169
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.800018, y: 41.49611}
+        - {x: -19.800018, y: -39.50389}
+        - {x: 20.199982, y: -39.50389}
+        - {x: 20.199982, y: 41.49611}
+    - name: spike_popup_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 216
+        width: 169
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.851135, y: 41.270874}
+        - {x: -19.851135, y: -39.729126}
+        - {x: 20.148865, y: -39.729126}
+        - {x: 20.148865, y: 41.270874}
+    - name: spike_popup_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 216
+        width: 169
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.6737823, y: 50.270874}
+        - {x: -19.673782, y: 35.270874}
+        - {x: -19.673782, y: -48.729126}
+        - {x: 20.326218, y: -48.729126}
+        - {x: 20.326218, y: 35.270874}
+        - {x: 4.3262177, y: 50.270874}
+    - name: spike_popup_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 262
+        width: 169
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.0491943, y: 51.370224}
+        - {x: -19.049194, y: 36.370224}
+        - {x: -19.049194, y: -50.629776}
+        - {x: 20.950806, y: -50.629776}
+        - {x: 20.950806, y: 13.370224}
+        - {x: 11.950806, y: 51.370224}
+    - name: spike_popup_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 324
+        width: 169
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.424591, y: 50.15631}
+        - {x: -19.424591, y: 36.15631}
+        - {x: -19.424591, y: -48.84369}
+        - {x: 20.575409, y: -48.84369}
+        - {x: 20.575409, y: -7.843689}
+        - {x: 6.575409, y: 50.15631}
+    - name: spike_popup_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 328
+        width: 169
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.800018, y: 49.577995}
+        - {x: -19.800018, y: 11.577995}
+        - {x: -19.800018, y: -48.422005}
+        - {x: 20.199982, y: -48.422005}
+        - {x: 20.199982, y: 6.5779953}
+        - {x: 5.1999817, y: 49.577995}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

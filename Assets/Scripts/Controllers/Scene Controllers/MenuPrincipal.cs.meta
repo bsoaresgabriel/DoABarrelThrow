@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7e8bf344285045f47bc1f65bf544cecc
+timeCreated: 1457906818
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayButton: {instanceID: 0}
+  - HelpButton: {instanceID: 0}
+  - QuitButton: {instanceID: 0}
+  - AudioButton: {instanceID: 0}
+  - loadMov: {fileID: 15200000, guid: df24d53fc9aca3d47814a0e38c6a7cc2, type: 3}
+  - MuteButton: {instanceID: 0}
+  - muted: {instanceID: 0}
+  - UnMuted: {instanceID: 0}
+  - Help: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: fb4045c8dc3e57447ab691fd118e48fd
+timeCreated: 1457582594
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INVERTIDO_russian_throw_up_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INVERTIDO_russian_throw_up_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 205
+        width: 481
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.88884, y: 88.992905}
+        - {x: -58.88884, y: 78.992905}
+        - {x: -57.88884, y: 48.992905}
+        - {x: -48.88884, y: 35.992905}
+        - {x: -78.88884, y: -12.007095}
+        - {x: -78.88884, y: -34.007095}
+        - {x: -30.88884, y: -68.007095}
+        - {x: 24.11116, y: -95.007095}
+        - {x: 51.11116, y: -95.007095}
+        - {x: 68.11116, y: -88.007095}
+        - {x: 80.11116, y: -34.007095}
+        - {x: 80.11116, y: 76.992905}
+        - {x: 42.11116, y: 88.992905}
+      - - {x: -47.88884, y: 95.992905}
+        - {x: -48.88884, y: 94.992905}
+        - {x: -47.88884, y: 91.992905}
+        - {x: -44.88884, y: 90.992905}
+        - {x: -41.88884, y: 90.992905}
+        - {x: -37.88884, y: 93.992905}
+        - {x: -38.88884, y: 95.992905}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: c262fd718a636d645bc9aee60d898f9e
+timeCreated: 1457633390
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INVERTIDO_russian_jumpvar_sheet_0
+    21300002: INVERTIDO_russian_jumpvar_sheet_1
+    21300004: INVERTIDO_russian_jumpvar_sheet_2
+    21300006: INVERTIDO_russian_jumpvar_sheet_3
+    21300008: INVERTIDO_russian_jumpvar_sheet_4
+    21300010: INVERTIDO_russian_jumpvar_sheet_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INVERTIDO_russian_jumpvar_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 833
+        width: 456
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.817688, y: 64.63031}
+        - {x: -51.817688, y: 27.63031}
+        - {x: -51.817688, y: -13.36969}
+        - {x: -20.817688, y: -63.36969}
+        - {x: -3.817688, y: -63.36969}
+        - {x: -0.817688, y: -60.36969}
+        - {x: 5.182312, y: -48.36969}
+        - {x: 20.182312, y: -63.36969}
+        - {x: 50.182312, y: -63.36969}
+        - {x: 53.182312, y: -57.36969}
+        - {x: 53.182312, y: 43.63031}
+        - {x: 36.182312, y: 64.63031}
+    - name: INVERTIDO_russian_jumpvar_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 843
+        width: 450
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.267914, y: 63.906784}
+        - {x: -51.267914, y: 38.906784}
+        - {x: -51.267914, y: -11.093216}
+        - {x: -28.267914, y: -60.093216}
+        - {x: -16.267914, y: -62.093216}
+        - {x: 51.732086, y: -62.093216}
+        - {x: 51.732086, y: 52.906784}
+        - {x: 39.732086, y: 63.906784}
+    - name: INVERTIDO_russian_jumpvar_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 858
+        width: 442
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.490486, y: 61.321503}
+        - {x: -17.490486, y: 59.321503}
+        - {x: -50.490486, y: 22.321503}
+        - {x: -50.490486, y: 2.3215027}
+        - {x: -31.490486, y: -59.678497}
+        - {x: -25.490486, y: -60.678497}
+        - {x: 50.509514, y: -60.678497}
+        - {x: 50.509514, y: 37.321503}
+        - {x: 26.509514, y: 61.321503}
+    - name: INVERTIDO_russian_jumpvar_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 146
+        width: 434
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.381744, y: 59.236526}
+        - {x: -16.618256, y: 59.236526}
+        - {x: -49.618256, y: 45.236526}
+        - {x: -49.618256, y: -33.763474}
+        - {x: -45.618256, y: -58.763474}
+        - {x: 45.381744, y: -58.763474}
+        - {x: 46.381744, y: -51.763474}
+        - {x: 50.381744, y: -21.763474}
+        - {x: 50.381744, y: 35.236526}
+    - name: INVERTIDO_russian_jumpvar_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 166
+        width: 427
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.840836, y: 57.789474}
+        - {x: -48.840836, y: 35.789474}
+        - {x: -48.840836, y: -56.210526}
+        - {x: 47.159164, y: -56.210526}
+        - {x: 49.159164, y: -53.210526}
+        - {x: 49.159164, y: 46.789474}
+        - {x: 38.159164, y: 57.789474}
+    - name: INVERTIDO_russian_jumpvar_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 182
+        width: 418
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.563408, y: 55.431835}
+        - {x: -47.563408, y: 42.431835}
+        - {x: -47.563408, y: -30.568165}
+        - {x: -42.563408, y: -54.568165}
+        - {x: 40.436592, y: -54.568165}
+        - {x: 49.436592, y: -20.568165}
+        - {x: 49.436592, y: 46.431835}
+        - {x: 22.436592, y: 55.431835}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

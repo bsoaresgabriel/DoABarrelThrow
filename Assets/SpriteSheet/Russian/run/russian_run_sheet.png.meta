@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 70b26e680523fb14486ca56cf4e33f38
+timeCreated: 1456375762
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: russian_run_sheet_0
+    21300002: russian_run_sheet_1
+    21300004: russian_run_sheet_2
+    21300006: russian_run_sheet_3
+    21300008: russian_run_sheet_4
+    21300010: russian_run_sheet_5
+    21300012: russian_run_sheet_6
+    21300014: russian_run_sheet_7
+    21300016: russian_run_sheet_8
+    21300018: russian_run_sheet_9
+    21300020: russian_run_sheet_10
+    21300022: russian_run_sheet_11
+    21300024: russian_run_sheet_12
+    21300026: russian_run_sheet_13
+    21300028: russian_run_sheet_14
+    21300030: russian_run_sheet_15
+    21300032: russian_run_sheet_16
+    21300034: russian_run_sheet_17
+    21300036: russian_run_sheet_18
+    21300038: russian_run_sheet_19
+    21300040: russian_run_sheet_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: russian_run_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3932
+        width: 437
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.629671, y: 32.89093}
+        - {x: -23.629671, y: 24.89093}
+        - {x: -23.629671, y: -29.10907}
+        - {x: -8.629671, y: -31.10907}
+        - {x: 14.370329, y: -31.10907}
+        - {x: 25.370329, y: 0.8909302}
+        - {x: 25.370329, y: 32.89093}
+    - name: russian_run_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3925
+        width: 439
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.711288, y: 32.12741}
+        - {x: -23.711288, y: 26.12741}
+        - {x: -23.711288, y: -31.87259}
+        - {x: 10.288712, y: -31.87259}
+        - {x: 25.288712, y: 0.12741089}
+        - {x: 25.288712, y: 26.12741}
+        - {x: 20.288712, y: 32.12741}
+    - name: russian_run_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3919
+        width: 435
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.747513, y: 32.97293}
+        - {x: -23.747513, y: -32.02707}
+        - {x: 6.252487, y: -32.02707}
+        - {x: 24.252487, y: -2.027069}
+        - {x: 24.252487, y: 26.97293}
+        - {x: 21.252487, y: 32.97293}
+    - name: russian_run_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 3914
+        width: 433
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.389023, y: 33.92755}
+        - {x: -17.610977, y: 33.92755}
+        - {x: -23.610977, y: 28.927551}
+        - {x: -23.610977, y: -32.07245}
+        - {x: 11.389023, y: -32.07245}
+        - {x: 24.389023, y: 4.9275513}
+        - {x: 24.389023, y: 27.927551}
+    - name: russian_run_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3140
+        width: 446
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.111364, y: 33.501923}
+        - {x: -24.111364, y: -32.498077}
+        - {x: 25.888636, y: -32.498077}
+        - {x: 25.888636, y: 33.501923}
+    - name: russian_run_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3129
+        width: 467
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.265442, y: 33.802063}
+        - {x: -25.265442, y: 14.802063}
+        - {x: -25.265442, y: -10.197937}
+        - {x: -19.265442, y: -33.197937}
+        - {x: 9.734558, y: -33.197937}
+        - {x: 26.734558, y: -10.197937}
+        - {x: 26.734558, y: 28.802063}
+        - {x: 22.734558, y: 33.802063}
+    - name: russian_run_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3126
+        width: 486
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.31044, y: 34.974854}
+        - {x: -26.31044, y: 19.974854}
+        - {x: -26.31044, y: -9.0251465}
+        - {x: -14.31044, y: -33.025146}
+        - {x: 0.68955994, y: -33.025146}
+        - {x: 17.68956, y: -20.025146}
+        - {x: 27.68956, y: 8.9748535}
+        - {x: 27.68956, y: 34.974854}
+    - name: russian_run_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 3126
+        width: 503
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.246368, y: 34.974854}
+        - {x: -27.246368, y: 22.974854}
+        - {x: -27.246368, y: -1.0251465}
+        - {x: -17.246368, y: -33.025146}
+        - {x: 2.7536316, y: -33.025146}
+        - {x: 12.753632, y: -27.025146}
+        - {x: 28.753632, y: -4.0251465}
+        - {x: 28.753632, y: 28.974854}
+        - {x: 24.753632, y: 34.974854}
+    - name: russian_run_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2360
+        width: 517
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.644165, y: 33.921814}
+        - {x: -14.355835, y: 33.921814}
+        - {x: -28.355835, y: 16.921814}
+        - {x: -28.355835, y: 2.921814}
+        - {x: -10.355835, y: -31.078186}
+        - {x: -9.355835, y: -33.078186}
+        - {x: 3.644165, y: -33.078186}
+        - {x: 10.644165, y: -20.078186}
+        - {x: 28.644165, y: 7.921814}
+        - {x: 28.644165, y: 28.921814}
+    - name: russian_run_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2366
+        width: 530
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.637299, y: 33.076294}
+        - {x: -28.637299, y: 27.076294}
+        - {x: -28.637299, y: -0.92370605}
+        - {x: -5.6372986, y: -32.923706}
+        - {x: 5.3627014, y: -32.923706}
+        - {x: 30.362701, y: -2.923706}
+        - {x: 30.362701, y: 31.076294}
+        - {x: 29.362701, y: 33.076294}
+    - name: russian_run_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2373
+        width: 539
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.091522, y: 33.839813}
+        - {x: -29.091522, y: 20.839813}
+        - {x: -29.091522, y: 5.839813}
+        - {x: -4.091522, y: -32.160187}
+        - {x: 9.908478, y: -32.160187}
+        - {x: 30.908478, y: -2.1601868}
+        - {x: 30.908478, y: 28.839813}
+        - {x: 28.908478, y: 33.839813}
+    - name: russian_run_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2366
+        width: 531
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.199478, y: 33.076294}
+        - {x: -11.800522, y: 33.076294}
+        - {x: -28.800522, y: 18.076294}
+        - {x: -28.800522, y: 4.076294}
+        - {x: -4.800522, y: -32.923706}
+        - {x: 11.199478, y: -32.923706}
+        - {x: 30.199478, y: -1.923706}
+        - {x: 30.199478, y: 27.076294}
+    - name: russian_run_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1588
+        width: 517
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.355835, y: 33.71434}
+        - {x: -28.355835, y: 16.71434}
+        - {x: -28.355835, y: -13.28566}
+        - {x: -9.355835, y: -33.28566}
+        - {x: 15.644165, y: -33.28566}
+        - {x: 28.644165, y: -12.28566}
+        - {x: 28.644165, y: 28.71434}
+        - {x: 24.644165, y: 33.71434}
+    - name: russian_run_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1581
+        width: 505
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.41037, y: 34.450806}
+        - {x: -27.41037, y: 18.450806}
+        - {x: -27.41037, y: -10.549194}
+        - {x: -10.41037, y: -33.549194}
+        - {x: 7.58963, y: -33.549194}
+        - {x: 28.58963, y: -5.5491943}
+        - {x: 28.58963, y: 29.450806}
+        - {x: 24.58963, y: 34.450806}
+    - name: russian_run_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1576
+        width: 488
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.528595, y: 35.405426}
+        - {x: -26.528595, y: 20.405426}
+        - {x: -26.528595, y: -1.594574}
+        - {x: -15.528595, y: -33.594574}
+        - {x: 7.471405, y: -33.594574}
+        - {x: 17.471405, y: -30.594574}
+        - {x: 27.471405, y: 3.405426}
+        - {x: 27.471405, y: 35.405426}
+    - name: russian_run_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1576
+        width: 469
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.53775, y: 35.405426}
+        - {x: -25.53775, y: 18.405426}
+        - {x: -25.53775, y: -14.594574}
+        - {x: -17.53775, y: -30.594574}
+        - {x: -16.53775, y: -33.594574}
+        - {x: -2.5377502, y: -33.594574}
+        - {x: 11.46225, y: -26.594574}
+        - {x: 26.46225, y: 3.405426}
+        - {x: 26.46225, y: 29.405426}
+        - {x: 21.46225, y: 35.405426}
+    - name: russian_run_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 814
+        width: 448
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.32952, y: 34.78871}
+        - {x: -23.32952, y: 19.788712}
+        - {x: -24.32952, y: 15.788712}
+        - {x: -24.32952, y: -19.211288}
+        - {x: -20.32952, y: -33.21129}
+        - {x: 4.6704807, y: -33.21129}
+        - {x: 25.67048, y: -1.2112885}
+        - {x: 25.67048, y: 26.788712}
+        - {x: 20.67048, y: 34.78871}
+    - name: russian_run_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 831
+        width: 432
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.447746, y: 33.64302}
+        - {x: -23.447746, y: 31.64302}
+        - {x: -23.447746, y: -32.35698}
+        - {x: 5.5522537, y: -32.35698}
+        - {x: 24.552254, y: 0.64302063}
+        - {x: 24.552254, y: 28.64302}
+        - {x: 22.552254, y: 33.64302}
+    - name: russian_run_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 846
+        width: 433
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.529358, y: 32.279182}
+        - {x: -23.529358, y: 29.279182}
+        - {x: -23.529358, y: -31.720818}
+        - {x: 11.470642, y: -31.720818}
+        - {x: 24.470642, y: -3.7208176}
+        - {x: 24.470642, y: 24.279182}
+        - {x: 21.470642, y: 32.279182}
+    - name: russian_run_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 847
+        width: 437
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.452713, y: -31.61174}
+        - {x: 25.452713, y: -10.61174}
+        - {x: 25.452713, y: 32.38826}
+        - {x: -13.547287, y: 32.38826}
+        - {x: -23.547287, y: 26.38826}
+        - {x: -23.547287, y: -31.61174}
+    - name: russian_run_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 437
+        height: 575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.629671, y: 32.83524}
+        - {x: -23.629671, y: 30.83524}
+        - {x: -23.629671, y: -26.16476}
+        - {x: -6.629671, y: -31.16476}
+        - {x: 9.370329, y: -31.16476}
+        - {x: 25.370329, y: -2.1647606}
+        - {x: 25.370329, y: 27.83524}
+        - {x: 23.370329, y: 32.83524}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

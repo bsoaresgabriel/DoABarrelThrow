@@ -1,0 +1,82 @@
+fileFormatVersion: 2
+guid: f73ebab7790fc7746a476ba5b152db3b
+timeCreated: 1457771056
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: laser_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: laser_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 53
+        width: 693
+        height: 608
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.78977, y: 44.417618}
+        - {x: 89.78977, y: 44.417618}
+        - {x: 118.78977, y: 82.41762}
+        - {x: 118.78977, y: 103.41762}
+        - {x: 117.78977, y: 104.41762}
+        - {x: -116.21023, y: 104.41762}
+        - {x: -117.21023, y: 103.41762}
+        - {x: -117.21023, y: 34.417618}
+        - {x: -51.210228, y: -102.58238}
+        - {x: 35.789772, y: -102.58238}
+        - {x: 39.789772, y: -99.58238}
+        - {x: 118.78977, y: 29.417618}
+        - {x: 118.78977, y: 36.417618}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

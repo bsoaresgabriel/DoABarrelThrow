@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 51f00e2483f04cc48ae88c3f49acc871
+timeCreated: 1456375612
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: INVERTIDO_russian_run_sheet_0
+    21300002: INVERTIDO_russian_run_sheet_1
+    21300004: INVERTIDO_russian_run_sheet_2
+    21300006: INVERTIDO_russian_run_sheet_3
+    21300008: INVERTIDO_russian_run_sheet_4
+    21300010: INVERTIDO_russian_run_sheet_5
+    21300012: INVERTIDO_russian_run_sheet_6
+    21300014: INVERTIDO_russian_run_sheet_7
+    21300016: INVERTIDO_russian_run_sheet_8
+    21300018: INVERTIDO_russian_run_sheet_9
+    21300020: INVERTIDO_russian_run_sheet_10
+    21300022: INVERTIDO_russian_run_sheet_11
+    21300024: INVERTIDO_russian_run_sheet_12
+    21300026: INVERTIDO_russian_run_sheet_13
+    21300028: INVERTIDO_russian_run_sheet_14
+    21300030: INVERTIDO_russian_run_sheet_15
+    21300032: INVERTIDO_russian_run_sheet_16
+    21300034: INVERTIDO_russian_run_sheet_17
+    21300036: INVERTIDO_russian_run_sheet_18
+    21300038: INVERTIDO_russian_run_sheet_19
+    21300040: INVERTIDO_russian_run_sheet_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: INVERTIDO_russian_run_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 4090
+        width: 438
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.093552, y: 30.814545}
+        - {x: -23.093552, y: 24.814545}
+        - {x: -23.093552, y: 6.8145447}
+        - {x: -8.093552, y: -30.185455}
+        - {x: 14.906448, y: -30.185455}
+        - {x: 23.906448, y: -29.185455}
+        - {x: 23.906448, y: 19.814545}
+        - {x: 17.906448, y: 30.814545}
+    - name: INVERTIDO_russian_run_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 4081
+        width: 439
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.901688, y: 31.365417}
+        - {x: -22.901688, y: -2.6345825}
+        - {x: -11.901688, y: -30.634583}
+        - {x: 18.098312, y: -30.634583}
+        - {x: 24.098312, y: -28.634583}
+        - {x: 24.098312, y: 20.365417}
+        - {x: 21.098312, y: 31.365417}
+    - name: INVERTIDO_russian_run_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 4076
+        width: 436
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.604355, y: 32.338135}
+        - {x: -22.604355, y: 25.338135}
+        - {x: -22.604355, y: -1.6618652}
+        - {x: -13.604355, y: -30.661865}
+        - {x: 24.395645, y: -30.661865}
+        - {x: 24.395645, y: 32.338135}
+    - name: INVERTIDO_russian_run_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4072
+        width: 434
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.912487, y: 31.91632}
+        - {x: -22.912487, y: 26.91632}
+        - {x: -22.912487, y: 9.916321}
+        - {x: -18.912487, y: 2.9163208}
+        - {x: -5.912487, y: -31.08368}
+        - {x: 23.087513, y: -31.08368}
+        - {x: 23.087513, y: 28.91632}
+        - {x: 22.087513, y: 31.91632}
+    - name: INVERTIDO_russian_run_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 3298
+        width: 445
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.593552, y: 32.793488}
+        - {x: -23.593552, y: 25.793488}
+        - {x: -23.593552, y: 9.793488}
+        - {x: -16.593552, y: -12.206512}
+        - {x: -5.5935516, y: -31.206512}
+        - {x: 24.406448, y: -31.206512}
+        - {x: 24.406448, y: 17.793488}
+        - {x: 16.406448, y: 32.793488}
+    - name: INVERTIDO_russian_run_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 3287
+        width: 467
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.401688, y: 33.133453}
+        - {x: -24.401688, y: 32.133453}
+        - {x: -24.401688, y: -2.8665466}
+        - {x: -4.4016876, y: -31.866547}
+        - {x: 18.598312, y: -31.866547}
+        - {x: 25.598312, y: -16.866547}
+        - {x: 25.598312, y: 21.133453}
+        - {x: 21.598312, y: 33.133453}
+    - name: INVERTIDO_russian_run_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3282
+        width: 486
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.604355, y: 32.60617}
+        - {x: -25.604355, y: -5.3938293}
+        - {x: -24.604355, y: -10.393829}
+        - {x: -3.6043549, y: -32.39383}
+        - {x: 20.395645, y: -32.39383}
+        - {x: 27.395645, y: -17.39383}
+        - {x: 27.395645, y: 13.606171}
+        - {x: 17.395645, y: 32.60617}
+    - name: INVERTIDO_russian_run_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3284
+        width: 505
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.912487, y: 32.81711}
+        - {x: -26.912487, y: 0.81710815}
+        - {x: -3.912487, y: -32.18289}
+        - {x: 17.087513, y: -32.18289}
+        - {x: 27.087513, y: -10.182892}
+        - {x: 27.087513, y: 25.817108}
+        - {x: 15.087513, y: 32.81711}
+    - name: INVERTIDO_russian_run_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2517
+        width: 516
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.093552, y: 32.932434}
+        - {x: -27.093552, y: 2.932434}
+        - {x: -15.093552, y: -31.067566}
+        - {x: -13.093552, y: -32.067566}
+        - {x: 14.906448, y: -32.067566}
+        - {x: 27.906448, y: -13.067566}
+        - {x: 27.906448, y: 19.932434}
+        - {x: 19.906448, y: 32.932434}
+    - name: INVERTIDO_russian_run_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2524
+        width: 531
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.901688, y: 32.170624}
+        - {x: -27.901688, y: 4.170624}
+        - {x: -17.901688, y: -29.829376}
+        - {x: -6.9016876, y: -31.829376}
+        - {x: 9.098312, y: -31.829376}
+        - {x: 29.098312, y: -6.829376}
+        - {x: 29.098312, y: 20.170624}
+        - {x: 21.098312, y: 32.170624}
+    - name: INVERTIDO_russian_run_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2531
+        width: 540
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.104355, y: 32.908813}
+        - {x: -28.104355, y: 21.908813}
+        - {x: -28.104355, y: 2.9088135}
+        - {x: -12.104355, y: -20.091187}
+        - {x: -4.104355, y: -31.091187}
+        - {x: 10.895645, y: -31.091187}
+        - {x: 29.895645, y: 1.9088135}
+        - {x: 29.895645, y: 28.908813}
+        - {x: 22.895645, y: 32.908813}
+    - name: INVERTIDO_russian_run_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2524
+        width: 532
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.587513, y: 32.170624}
+        - {x: -28.412487, y: 32.170624}
+        - {x: -28.412487, y: 5.170624}
+        - {x: -6.412487, y: -31.829376}
+        - {x: 7.587513, y: -31.829376}
+        - {x: 28.587513, y: 1.1706238}
+        - {x: 28.587513, y: 18.170624}
+        - {x: 27.587513, y: 22.170624}
+    - name: INVERTIDO_russian_run_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1746
+        width: 519
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.593552, y: 32.62596}
+        - {x: -27.593552, y: 4.6259613}
+        - {x: -3.5935516, y: -32.37404}
+        - {x: 9.406448, y: -32.37404}
+        - {x: 28.406448, y: 2.6259613}
+        - {x: 28.406448, y: 18.625961}
+        - {x: 18.406448, y: 32.62596}
+    - name: INVERTIDO_russian_run_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1737
+        width: 505
+        height: 616
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.401688, y: 33.17685}
+        - {x: -26.401688, y: 32.17685}
+        - {x: -26.401688, y: 9.176849}
+        - {x: -15.401688, y: -3.8231506}
+        - {x: -10.401688, y: -20.82315}
+        - {x: -1.4016876, y: -32.82315}
+        - {x: 14.598312, y: -32.82315}
+        - {x: 27.598312, y: 0.17684937}
+        - {x: 27.598312, y: 20.17685}
+        - {x: 16.598312, y: 33.17685}
+    - name: INVERTIDO_russian_run_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1732
+        width: 488
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.604355, y: 34.149582}
+        - {x: -25.604355, y: 29.149582}
+        - {x: -25.604355, y: 4.149582}
+        - {x: -7.604355, y: -27.850418}
+        - {x: 0.39564514, y: -32.850418}
+        - {x: 17.395645, y: -32.850418}
+        - {x: 27.395645, y: -11.850418}
+        - {x: 27.395645, y: 16.149582}
+        - {x: 19.395645, y: 34.149582}
+    - name: INVERTIDO_russian_run_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1734
+        width: 470
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.087513, y: 34.36049}
+        - {x: -22.912487, y: 34.36049}
+        - {x: -24.912487, y: 30.360489}
+        - {x: -24.912487, y: -2.639511}
+        - {x: -0.91248703, y: -32.63951}
+        - {x: 21.087513, y: -32.63951}
+        - {x: 25.087513, y: -21.639511}
+        - {x: 25.087513, y: 20.360489}
+        - {x: 20.087513, y: 33.36049}
+    - name: INVERTIDO_russian_run_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 971
+        width: 448
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.593552, y: 32.89765}
+        - {x: -23.593552, y: -16.102348}
+        - {x: -20.593552, y: -32.10235}
+        - {x: 24.406448, y: -32.10235}
+        - {x: 24.406448, y: 29.897652}
+        - {x: 21.406448, y: 32.89765}
+    - name: INVERTIDO_russian_run_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 988
+        width: 432
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.901688, y: 0.6904068}
+        - {x: -7.9016876, y: -26.309593}
+        - {x: 0.09831238, y: -31.309593}
+        - {x: 24.098312, y: -31.309593}
+        - {x: 24.098312, y: 31.690407}
+        - {x: -17.901688, y: 31.690407}
+        - {x: -22.901688, y: 25.690407}
+    - name: INVERTIDO_russian_run_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1002
+        width: 434
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.604355, y: 31.666786}
+        - {x: -22.604355, y: 3.6667862}
+        - {x: -3.6043549, y: -30.333214}
+        - {x: 24.395645, y: -30.333214}
+        - {x: 24.395645, y: 30.666786}
+        - {x: 23.395645, y: 31.666786}
+    - name: INVERTIDO_russian_run_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1004
+        width: 439
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.412487, y: 31.8777}
+        - {x: -23.412487, y: 28.8777}
+        - {x: -23.412487, y: 3.8777008}
+        - {x: -12.412487, y: -30.1223}
+        - {x: 10.587513, y: -30.1223}
+        - {x: 23.587513, y: -27.1223}
+        - {x: 23.587513, y: 19.8777}
+        - {x: 18.587513, y: 31.8777}
+    - name: INVERTIDO_russian_run_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 238
+        width: 439
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.412487, y: 30.5985}
+        - {x: -23.412487, y: 25.5985}
+        - {x: -23.412487, y: 5.5984993}
+        - {x: -10.412487, y: -30.4015}
+        - {x: 23.587513, y: -30.4015}
+        - {x: 23.587513, y: 15.598499}
+        - {x: 15.587513, y: 30.5985}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
